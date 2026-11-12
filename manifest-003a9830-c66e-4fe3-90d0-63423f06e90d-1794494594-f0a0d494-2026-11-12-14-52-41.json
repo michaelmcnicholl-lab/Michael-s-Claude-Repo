@@ -1,0 +1,57 @@
+{
+  "instructions": "Download each file using the export_url. Each link expires 24 hours after it is created and may stop working before then once it has been used, so download each file completely when you open its link.",
+  "created_at": "2026-11-12T14:52:41.393541+00:00",
+  "total_files": 7,
+  "data_files": [
+    {
+      "batch_index": 0,
+      "export_url": "https://claude.ai/export/003a9830-c66e-4fe3-90d0-63423f06e90d/download/ccbc7eb238dcc484c3933bf23aaef1f2",
+      "category": "light_metadata",
+      "part": 0,
+      "filename": "light_metadata-000.zip"
+    },
+    {
+      "batch_index": 1,
+      "export_url": "https://claude.ai/export/003a9830-c66e-4fe3-90d0-63423f06e90d/download/a3e34834483a5f59aa5c8d1d134cb8c0",
+      "category": "projects",
+      "part": 0,
+      "filename": "projects-000.zip"
+    },
+    {
+      "batch_index": 2,
+      "export_url": "https://claude.ai/export/003a9830-c66e-4fe3-90d0-63423f06e90d/download/f6871bd7f30bf6d1ce262674061d4b83",
+      "category": "memories",
+      "part": 0,
+      "filename": "memories-000.zip"
+    },
+    {
+      "batch_index": 3,
+      "export_url": "https://claude.ai/export/003a9830-c66e-4fe3-90d0-63423f06e90d/download/9be1b726a50bdbbd3220a35611baf895",
+      "category": "design_chats",
+      "part": 0,
+      "filename": "design_chats-000.zip"
+    },
+    {
+      "batch_index": 4,
+      "export_url": "https://claude.ai/export/003a9830-c66e-4fe3-90d0-63423f06e90d/download/236e1bff6522c5dac7631574f12bff2a",
+      "category": "frames",
+      "part": 0,
+      "filename": "frames-000.zip"
+    },
+    {
+      "batch_index": 5,
+      "export_url": "https://claude.ai/export/003a9830-c66e-4fe3-90d0-63423f06e90d/download/6b26dd13a8b811a9041898a8b73d46e7",
+      "category": "claude_code_cloud",
+      "part": 0,
+      "filename": "claude_code_cloud-000.zip"
+    },
+    {
+      "batch_index": 6,
+      "export_url": "https://claude.ai/export/003a9830-c66e-4fe3-90d0-63423f06e90d/download/4d39ea373d9cb2b7192bf27a88d8c20e",
+      "category": "conversations",
+      "part": 0,
+      "filename": "conversations-000.zip"
+    }
+  ],
+  "version": "1.0"
+}
